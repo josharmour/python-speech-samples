@@ -29,8 +29,8 @@ deidentify_config = {
         'transformations': [
             {
                 'primitive_transformation': {
-                    'character_mask_config': {
-                        'masking_character': '*',
+                    'replace_with_info_type_config': {
+
                     }
                 }
             }
